@@ -1,4 +1,4 @@
-image: https://hub.docker.com/r/jhipster/jhipster
+image: jhipster/jhipster:latest
 
 workspaces:
   default:
